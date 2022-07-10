@@ -26,7 +26,7 @@ To improve the accuracy, first, number of neurons of the hidden layer is increas
 
 Second, I add a third hidden layer, however, there is no improvement in the result.
 
-![fig-3](https://github.com/SiedHM/Neural_Network_Charity_Analysis/blob/main/Resources/accurac2.png)
+![fig-3](https://github.com/SiedHM/Neural_Network_Charity_Analysis/blob/main/Resources/accuracy2.png)
 
 Third, I changed the activation function of the hidden layers to tanh, however, no improvement in model accuracy.
 
