@@ -1,4 +1,4 @@
-# Challenge-19
+# Deep Learning project
 Sied H Mohamed
 # Over view of the project
 The objective of the current task is to analyses the success of charitable donations using deep-learning neural networks with the TensorFlow. I used python to generate the results by preprocessing the data, compile, train and evaluate the model, and optimize the model. 
